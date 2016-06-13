@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# contributor: Tongjie Chen
+# key: pycal
+# group: python
+# name: Python as a calculator
+# --
+#+begin_src python :results output
+from math import *
+import scipy.constants as sc
+from numpy import *
+$0
+#+end_src
